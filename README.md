@@ -19,3 +19,10 @@ This repository contains a deep learning model for classifying images of waterbi
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Training
+
+```bash
+python main.py
+```
