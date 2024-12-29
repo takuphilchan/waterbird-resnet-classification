@@ -9,6 +9,13 @@ This repository contains a deep learning model for classifying images of waterbi
 - **Logging**: Integrated logging for tracking training progress and model performance.
 - **Checkpointing**: Model saving to ensure recovery and the best model is saved based on validation accuracy.
 
+## Sample Dataset Images
+
+Below are some sample images from the dataset:
+
+![Sample Image 1](images/1.jpg)
+![Sample Image 2](images/2.jpg)
+
 ## Installation
 
 ### Prerequisites
