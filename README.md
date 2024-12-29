@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# waterbird-resnet-classification
-=======
 # Waterbirds Image Classification
 
 This repository contains a deep learning model for classifying images of waterbirds. The model is built using PyTorch and leverages the Waterbirds dataset (https://drive.google.com/file/d/1xPNYQskEXuPhuqT5Hj4hXPeJa9jh7liL/view) for training and evaluation. It applies computer vision techniques to classify images based on whether the birds are associated with water or land.
@@ -22,4 +19,3 @@ This repository contains a deep learning model for classifying images of waterbi
 
 ```bash
 pip install -r requirements.txt
->>>>>>> b6774a4 (Initial commit)
